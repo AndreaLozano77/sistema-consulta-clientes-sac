@@ -133,10 +133,9 @@ Para desplegar en producción:
 
 ## Desarrollador
 
+**Desarrollador:** Andrea Lozano Cataño  
+**Tiempo de desarrollo:** 4 horas
+
 Proyecto desarrollado como parte del ejercicio técnico para **Rios del desierto SAS**.
 
-**Tiempo de desarrollo:** 2 horas (funcionalidad básica)
-
 ---
-
-*Sistema funcional entregado - Listo para pruebas y evaluación*
